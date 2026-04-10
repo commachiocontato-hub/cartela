@@ -1,1 +1,16 @@
 
+{
+  "Country": [
+    { "code": "COUNTRY001", "image": "https://site.com/country1.jpg" },
+    { "code": "COUNTRY002", "image": "https://site.com/country2.jpg" }
+  ],
+  "Religioso": [
+    { "code": "RELIGIOSO001", "image": "https://site.com/religioso1.jpg" }
+  ],
+  "Esporte": [
+    { "code": "ESPORTE001", "image": "https://site.com/esporte1.jpg" }
+  ],
+  "Hobby": [
+    { "code": "HOBBY001", "image": "https://site.com/hobby1.jpg" }
+  ]
+}
