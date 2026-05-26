@@ -2,7 +2,7 @@
 {
   "Country": [
     { "code": "A001", "image": "https://i.ibb.co/3mbrBZLh/IMG002.jpg" },
-    { "code": "A002", "image": "https://site.com/country2.jpg" }
+    { "code": "A002", "image": "https://i.ibb.co/3mbrBZLh/IMG002.jpg" }
   ],
   "Religioso": [
     { "code": "A003", "image": "https://site.com/religioso1.jpg" }
