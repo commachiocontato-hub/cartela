@@ -9,8 +9,5 @@
   ],
   "Esporte": [
     { "code": "A004", "image": "https://site.com/esporte1.jpg" }
-  ],
-  "Hobby": [
-    { "code": "A005", "image": "https://site.com/hobby1.jpg" }
   ]
 }
